@@ -1,24 +1,32 @@
-# Let's Get Started
+# Flavor of Sugar
+
+## A talk about the different flavors of different sugars
+
+![](assets/img/sugar-spoons.jpg)
 
 ---
 
-## Add Some Slide Candy
+## *Sugar* - yeast eat it to work their magic and make alcohol
 
-![](assets/img/presentation.png)
+![](assets/img/Saccharose2.svg)
+
+### There a many of types Sugar
+|        |     |  |
+| ----------- |----------| -------|
+|Agave nectar|Barley malt|Beet sugar|
+|Brown sugar|Cane sugar|Caramel|
+|Castor sugar|Coconut palm sugar|Confectioner's sugar|
+|Corn syrup|Date sugar|Demerara sugar|
+|Dextrin|Dextrose|Fructose|
+|Glucose|Golden sugar|HFCS (High-Fructose Corn Syrup)|
+|Honey|Maltodextrin|Maltose|
+|Maple syrup|Molasses|Palm sugar|
+|Powdered sugar|Raw sugar|Rice syrup|
+|Saccharose|Sorghum Syrup|Sucrose|
+|Sugar (granulated)|Treacle|Turbinado sugar|
+
 
 ---
-@title[Customize Slide Layout]
-
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
-
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
-
----?color=#E58537
-@title[Add A Little Imagination]
 
 @snap[north-west]
 #### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
