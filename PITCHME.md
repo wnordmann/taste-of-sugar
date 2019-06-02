@@ -2,12 +2,18 @@
 
 ## A talk about the different flavors of different sugars
 
+## BJCP Referances 
+ * **Molasses** 20 time
+ * **Maple Syrup** 10 time
+ * **Treacle** 10 times
+ * **Brown Sugar** 6 times
+
 ![](assets/img/sugar-spoons.jpg)
 
 ---
 
 #### There a many of types Sugar
-|  Today's samples      |  |  |
+|       |  |  |
 | ----------- |  ---- |  ---- |  
 |Beet sugar|Agave nectar|Barley malt|
 |Brown sugar|Cane sugar|Caramel|
@@ -38,19 +44,39 @@
 
 ## Beet  / Cane / Granulated / White sugar
 
+#### This is the most common sugar, what we all thing of as Sugar.  
+#### Most commercial providers change between beet and cane based on prices and there is very little difference between Cane and Beet.  
+#### The difference shows up when carmalizing sugar, like making homemade invery sugar.  
+#### All taste the same
 ---
-
 
 ## Brown sugar
 
----
+#### Traditionally this was a slight less refined white sugar, today it is just white sugar with a small amount of Molasses added for color
 
-## Maple syrup
+#### Flavor is slighty richer
 
 ---
 
 ## Molasses
 
+#### A byproduct in making sugar crystals.  After the plant is boiled the crystal are seperated from the liquid.  Molasses is left behind and sugar crystal and made/
+
+#### Not as sweet as sugar, bitter, earthy
+
+#### Noramlly 3 grades
+* Light - sweetest
+* Dark 
+* Backstrap - bitterest
+
+---
+
+## Maple syrup
+
+
 ---
 ## Treacle
-|Turbinado sugar|
+
+---
+
+## Turbinado sugar
